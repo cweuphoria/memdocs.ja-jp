@@ -62,7 +62,7 @@ Intune MAM では次の 2 つの構成をサポートしています。
 ## <a name="apps-you-can-manage-with-app-protection-policies"></a>アプリ保護ポリシーで管理できるアプリ
 
 **どのアプリをアプリ保護ポリシーで管理できますか。**<br></br>
-Intune アプリ保護ポリシーでは、[Intune アプリ SDK](../developer/app-sdk.md) に統合されたアプリや [Intune アプリ ラッピング ツール](../developer/apps-prepare-mobile-application-management.md) によってラップされたアプリを管理できます。 般使用が可能な [Intune 管理対象アプリ](https://www.microsoft.com/cloud-platform/microsoft-intune-apps) の公式の一覧を参照してください。
+Intune アプリ保護ポリシーでは、[Intune アプリ SDK](../developer/app-sdk.md) に統合されたアプリや [Intune アプリ ラッピング ツール](../developer/apps-prepare-mobile-application-management.md) によってラップされたアプリを管理できます。 一般公開されている [Intune 管理対象アプリ](https://www.microsoft.com/cloud-platform/microsoft-intune-apps) の公式一覧はこちらをご覧ください。
 
 **Intune 管理対象アプリでアプリ保護ポリシーを使用するための基本要件は何ですか。**
 
